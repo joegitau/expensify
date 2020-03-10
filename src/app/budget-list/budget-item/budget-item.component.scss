@@ -1,0 +1,18 @@
+.list-group-item {
+  cursor: pointer;
+
+  .badge-pill {
+    border-radius: .25rem;
+    padding: 6px 12px
+  }
+}
+
+.income {
+  color: #fff;
+  background-color: #28a745;
+}
+
+.expense {
+  color: #fff;
+  background-color: #e31837;
+}

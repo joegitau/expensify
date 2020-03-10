@@ -6,6 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./budget-list.component.scss']
 })
 export class BudgetListComponent implements OnInit {
+  isIncome: boolean;
 
   constructor() { }
 
